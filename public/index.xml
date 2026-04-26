@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;here-is-a-new-post&#34;&gt;Here is a new post!&lt;/h2&gt;&#xA;&lt;p&gt;This is my content written in &lt;strong&gt;Markdown&lt;/strong&gt;. Hugo will turn this into a web page automatically.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h2&gt;&#xA;&lt;p&gt;This is my content written in &lt;strong&gt;Markdown&lt;/strong&gt;. Hugo will turn this into a web page automatically.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
