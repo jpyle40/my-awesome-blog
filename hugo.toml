@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = "https://jpyle40.github.io/my-awesome-blog"
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'ananke'
